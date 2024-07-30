@@ -1,5 +1,7 @@
 <template>
-  <nav class="tw-shadow-sm tw-bg-white dark:tw-bg-dark-blue">
+  <nav
+    class="tw-shadow-sm tw-bg-white dark:tw-bg-dark-blue tw-sticky tw-top-0 tw-w-full"
+  >
     <section class="tw-flex tw-items-center tw-justify-between body-alignment">
       <RouterLink to="/">
         <h3 class="tw-font-bold">Where in the world?</h3>
